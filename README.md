@@ -14,6 +14,6 @@
 Feel free to contact me at any time 
 
 <a href="https://arthursegato.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-arthursegato.dev-1a5cff"></a>
-<a href="https://arthursegato.dev" target="_blank"><img src="https://img.shields.io/badge/Mastodon-https://mastodon.social/@arthursegato"></a>
+<a href="https://mastodon.social/@arthursegato" target="_blank"><img src="https://img.shields.io/badge/Mastodon-https://mastodon.social/@arthursegato-46c93a"></a>
 <a href="mailto:github.reentry594@passinbox.com"><img src="https://img.shields.io/badge/Email-github.reentry594%40passinbox.com-ff4757"></a>
 
