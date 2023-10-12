@@ -7,7 +7,7 @@
 
 ---
 
--   :hammer_and_wrench: Unreal 5 / Unity / Ren'Py / Vue 3 / NestJS / discord.JS / Puppeteer
+-   :hammer_and_wrench: Unreal 5 / Unity / Ren'Py / Nuxt / Vue / NestJS / discord.JS / Puppeteer
 -   :key: GPG key: [`19A7C866490A0E1E`](https://github.com/arthursegato.gpg)
 -   :heart: Sponsor me via [Stripe](https://donate.stripe.com/7sI29F4lo7Pt80g28a)
 
