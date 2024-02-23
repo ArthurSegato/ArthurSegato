@@ -9,6 +9,6 @@
 
 -   🛠️ Unreal 5 / Unity / Ren'Py / Nuxt / Vue / NestJS / discord.JS / Puppeteer ~~and any other tech you pay me for 乁₍ッ₎ㄏ~~
 -   🔑 GPG key: [`0A3CE5F867A350D6`](https://github.com/arthursegato.gpg)
--   ❤️ Sponsor me via [Stripe](https://donate.stripe.com/7sI29F4lo7Pt80g28a)
+-   ❤️ Sponsor me via [Stripe](https://donate.stripe.com/9AQbMl1Pt5DV4i4288)
 
 Feel free to reach out to me anytime. If it pertains to a job opportunity then even better, seriously, **I need a job asap**.
