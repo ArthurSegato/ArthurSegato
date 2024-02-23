@@ -7,13 +7,8 @@
 
 ---
 
--   🛠️ Unreal 5 / Unity / Ren'Py / Nuxt / Vue / NestJS / discord.JS / Puppeteer
+-   🛠️ Unreal 5 / Unity / Ren'Py / Nuxt / Vue / NestJS / discord.JS / Puppeteer ~~and any other tech you pay me for 乁₍ッ₎ㄏ~~
 -   🔑 GPG key: [`0A3CE5F867A350D6`](https://github.com/arthursegato.gpg)
 -   ❤️ Sponsor me via [Stripe](https://donate.stripe.com/7sI29F4lo7Pt80g28a)
 
-Feel free to contact me at any time 
-
-<a href="https://arthursegato.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-arthursegato.dev-1a5cff"></a>
-<a href="https://mastodon.social/@arthursegato" target="_blank"><img src="https://img.shields.io/badge/Mastodon-https://mastodon.social/@arthursegato-46c93a"></a>
-<a href="mailto:github.reentry594@passinbox.com"><img src="https://img.shields.io/badge/Email-github.reentry594%40passinbox.com-ff4757"></a>
-
+Feel free to reach out to me anytime. If it pertains to a job opportunity then even better, seriously, **I need a job asap**.
